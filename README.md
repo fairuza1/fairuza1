@@ -27,7 +27,7 @@
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fairuza1&layout=compact)
-<img align="center" src="https://camo.githubusercontent.com/74a9673ec9e378e2868f812b341bdd4418ff61b3e159d67429ea378a5d7bd384/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d666169727a6131&theme=dark" height="180em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fairza1&amp;theme=dark" style="max-width: 100%;">
+<img align="center" src="https://camo.githubusercontent.com/74a9673ec9e378e2868f812b341bdd4418ff61b3e159d67429ea378a5d7bd384/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d666169727a6131&theme=dark" height="180em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fairuza1&amp;theme=dark" style="max-width: 100%;">
 
 
 ## Diller ve Araçlar:
