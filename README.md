@@ -28,7 +28,7 @@
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fairuza1&layout=compact)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fairuza1&theme=default" alt="GitHub Profile Summary Card" width="300"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fairuza1&theme=default" alt="GitHub Profile Summary Card" width="500"/>
 
 
 
