@@ -28,6 +28,9 @@
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fairuza1&layout=compact)
 
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
+
+
 
 
 
