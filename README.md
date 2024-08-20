@@ -28,7 +28,7 @@
 ##
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuza1&layout=compact" alt="Top Langs" width="400"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fairuza1&theme=default" alt="GitHub Profile Summary Card" width="800"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fairuza1&theme=default" alt="GitHub Profile Summary Card" width="700"/>
 </div>
 
 
