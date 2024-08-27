@@ -6,7 +6,7 @@
 
 🌱 Şu anda React ve java Spring Boot öğreniyorum
 
-👨‍💻 Tüm projelerim [GitHub profilimde](https://github.com/fairuza1) mevcuttur.
+👨‍💻 Tüm projelerim [GitHub profilimde](https://github.com/fairuza1?tab=repositories) mevcuttur.
 
 📫 Bana nasıl ulaşabilirsiniz: [karae0618@gmail.com](mailto:karae0618@gmail.com)
 
