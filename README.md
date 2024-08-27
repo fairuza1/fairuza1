@@ -8,8 +8,6 @@
 
 👨‍💻 Tüm projelerim [GitHub profilimde](https://github.com/fairuza1) mevcuttur.
 
-💬 Bana [React ve Spring Boot](https://github.com/fairuza1) hakkında soru sorabilirsiniz.
-
 📫 Bana nasıl ulaşabilirsiniz: [karae0618@gmail.com](mailto:karae0618@gmail.com)
 
 ## Sosyal Medya ve İletişim
