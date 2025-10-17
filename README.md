@@ -2,7 +2,6 @@
 
                                              A passionate backend developer from Turkey
 
-🔭 Şu anda TarımKooperatifProje (https://github.com/fairuza1/tar-mKrediProje.git) üzerinde çalışıyorum.
 
 🌱 Şu anda React ve java Spring Boot öğreniyorum
 
